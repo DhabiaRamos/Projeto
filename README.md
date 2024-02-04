@@ -12,7 +12,7 @@
 
 <br>
 <h2> :computer: Tecnologias</h2>
-<hp>As tecnologias utilizadas para a realização desse projeto foram:</hp><br><br>
+<p>As tecnologias utilizadas para a realização desse projeto foram:</p><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
